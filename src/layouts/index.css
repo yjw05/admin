@@ -1,0 +1,36 @@
+#layoutTrigger .trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+#layoutTrigger .trigger:hover {
+  color: #1890ff;
+}
+
+#layoutTrigger .logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+
+.portal,
+.international,
+.userAction {
+  float: right;
+}
+
+.portal {
+  font-size: 24px;
+}
+
+.userAction {
+  float: right;
+}
+
+.iconWrapper {
+  cursor: pointer;
+  padding: 0 12px;
+}

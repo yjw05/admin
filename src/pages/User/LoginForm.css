@@ -1,0 +1,13 @@
+.loginFormWrapper {
+    margin: 0 auto;
+    width: 368px;
+}
+
+.LoginLogo {
+    padding: 20px 0;
+    text-align: center;
+}
+
+.loginForm .loginFormButton {
+    width: 100%;
+}
